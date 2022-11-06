@@ -1,4 +1,4 @@
-# -Arshadulla1-Predicition-and-deployment-of-adult-dataset
+# -Predication-and-deployment-of-adult-dataset-using-classification-and-flask
 Introduction:
  The adult income dataset that involves predicting personal income levels as above or below 50,000 per year based on personal details such as relationship and education level. This means that techniques for imbalanced classification can be used whilst model performance can still be reported using classification accuracy, as is used with balanced classification problems.
 
